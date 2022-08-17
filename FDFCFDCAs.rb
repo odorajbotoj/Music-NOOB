@@ -1,3 +1,8 @@
+## FDFCFDCAs
+## 220817
+## odorajbotoj
+## Sonic Pi
+
 ## Beep
 in_thread do
   use_bpm 60
